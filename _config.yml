@@ -21,7 +21,7 @@
 title: Pavel's Blog
 email: pavelgonzalezdelriocosta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, this is my site where I write about stuff that interests me. I hope you enjoy it!
+  Hello, this is my site where I write about stuff that interests me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

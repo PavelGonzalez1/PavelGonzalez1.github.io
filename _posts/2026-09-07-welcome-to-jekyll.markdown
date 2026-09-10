@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Software rasterizer project"
 date:   2026-09-07 18:03:16 -0400
 categories: jekyll update
+image: /assets/pirate_ship.gif
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I've been interested in how the gpu renderers things to the screen, so to learn more about it i decided to build a software rasterizer. Rasterization is the proccess to turn vector data, such as position or color, into pixel data for the screen to display. 
 
-Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
